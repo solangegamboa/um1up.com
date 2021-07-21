@@ -1,0 +1,199 @@
+{
+    "basic_info": {
+      "description_header": "Oi",
+      "description": "Eu sou a Sol, gosto de programar desde que me entendo por gente e tive a sorte de entrar cedo nessa área, mais de 10 anos já, o tempo passa rápido, obrigada por visitar minha página, aqui você vai encontrar informações sobre o que eu andei fazendo esses mais de 10 anos como desenvolvedora",
+      "section_name": {
+        "about": "Sobre mim",
+        "projects": "Projetos",
+        "skills": "Conhecimento",
+        "experience": "Experiência"
+      }
+    },
+    "projects": [
+      {
+        "title": "Sol in time",
+        "startDate": "2021",
+        "description": "Sistema para gravar o ponto de trabalho. Lavarel com Breeze",
+        "images": [
+          "images/portfolio/solintime/solintime_1.png",
+          "images/portfolio/solintime/solintime.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-laravel-plain",
+            "name": "Laravel"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Dental Speed APP",
+        "startDate": "2018",
+        "description": "Aplicativo pra o E-commerce da maior dental do brasil.",
+        "images": [
+          "images/portfolio/dentalspeed_app/dentalspeed_app.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-codeigniter-plain",
+            "name": "Code Igniter"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-ionic-original",
+            "name": "Ionic"
+          },
+          {
+            "class": "devicon-cordova-plain",
+            "name": "Cordova"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Dental Speed",
+        "startDate": "2016",
+        "description": "E-commerce da maior dental do brasil.",
+        "images": [
+          "images/portfolio/dentalspeed/dentalspeed.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-codeigniter-plain",
+            "name": "Code Igniter"
+          },
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "ALESC",
+        "startDate": "2014",
+        "description": "Portal da Assembleia Legislativa do Estado de Santa Catarina.",
+        "images": [
+          "images/portfolio/alesc/alesc.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-drupal-plain",
+            "name": "Drupal"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Dental Speed",
+        "title": "Analista Desenvolvedora Web",
+        "years": "01/2016 - atual",
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Angular JS",
+          "Bootstrap",
+          "Jquery",
+          "Code Igniter",
+          "Magento 2",
+          "Typescript",
+          "Ionic",
+          "Cordova",
+          "Scrum"
+        ]
+      },
+      {
+        "company": "PontoBR Digital",
+        "title": "Desenvolvedora Web",
+        "years": "01/2015 - 12/2016",
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "Drupal",
+          "Wordpress",
+          "PHPPuppet",
+          "Bootstrap",
+          "Jquery",
+          "Javascript"
+        ]
+      },
+      {
+        "company": "VH Soluções em Sofware",
+        "title": "Tech Team Leader - Desenvolvedora Web",
+        "years": "01/2014 - 12/2014",
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "Drupal",
+          "CakePHP",
+          "AngularJS",
+          "Apache Solr"
+        ]
+      },
+      {
+        "company": "Memphis Network",
+        "title": "Gerente de Desenvolvimento e Suporte Técnico",
+        "years": "08/2010 - 12/2013",
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "Bash",
+          "ShellScript",
+          "HTML",
+          "CSS",
+          "E-mail Gateway"
+        ]
+      }
+    ]
+  }
