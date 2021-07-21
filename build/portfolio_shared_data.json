@@ -1,0 +1,67 @@
+{
+  "basic_info": {
+    "name": "Sol Gamboa",
+    "titles": [
+      "Back-end PHP Senior Developer",
+      "Dev Team lead",
+      "Mobile App Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/solangegamboa",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/solange-gamboa/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpeg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "PHP",
+        "class": "devicon-php-plain",
+        "level": "92"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "80"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "90"
+      },
+      {
+        "name": "Angular JS",
+        "class": "devicon-angularjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "75"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "54"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "43"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "60"
+      }
+    ]
+  }
+}
