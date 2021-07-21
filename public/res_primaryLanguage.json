@@ -1,19 +1,19 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Oi",
+      "description": "Eu sou a Sol, gosto de programar desde que me entendo por gente e tive a sorte de entrar cedo nessa área, mais de 10 anos já, o tempo passa rápido, obrigada por visitar minha página, aqui você vai encontrar informações sobre o que eu andei fazendo esses mais de 10 anos como desenvolvedora",
       "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "about": "Sobre mim",
+        "projects": "Projetos",
+        "skills": "Conhecimento",
+        "experience": "Experiência"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Sol in time",
+        "startDate": "2021",
+        "description": "Sistema para gravar o ponto de trabalho. Lavarel com Breeze",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -21,23 +21,95 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-laravel-plain",
+            "name": "Laravel"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Dental Speed APP",
+        "startDate": "2018",
+        "description": "Aplicativo pra o E-commerce da maior dental do brasil.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-codeigniter-plain",
+            "name": "Code Igniter"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-ionic-original",
+            "name": "Ionic"
+          },
+          {
+            "class": "devicon-cordova-plain",
+            "name": "Cordova"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Dental Speed",
+        "startDate": "2016",
+        "description": "E-commerce da maior dental do brasil.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-codeigniter-plain",
+            "name": "Code Igniter"
+          },
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "ALESC",
+        "startDate": "2014",
+        "description": "Portal da Assembleia Legislativa do Estado de Santa Catarina.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -45,73 +117,85 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-drupal-plain",
+            "name": "Drupal"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           }
         ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Dental Speed",
+        "title": "Analista Desenvolvedora Web",
+        "years": "01/2016 - atual",
         "mainTech": [
-          "Angular 8/9/10"
+          "PHP"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
+          "Angular JS",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Jquery",
+          "Code Igniter",
+          "Magento 2",
+          "Typescript",
+          "Ionic",
+          "Cordova",
+          "Scrum"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "PontoBR Digital",
+        "title": "Desenvolvedora Web",
+        "years": "01/2015 - 12/2016",
         "mainTech": [
-          "Angular 7/8"
+          "PHP"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Drupal",
+          "Wordpress",
+          "PHPPuppet",
+          "Bootstrap",
+          "Jquery",
+          "Javascript"
+        ]
+      },
+      {
+        "company": "VH Soluções em Sofware",
+        "title": "Tech Team Leader - Desenvolvedora Web",
+        "years": "01/2014 - 12/2014",
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "Drupal",
+          "CakePHP",
+          "AngularJS",
+          "Apache Solr"
+        ]
+      },
+      {
+        "company": "Memphis Network",
+        "title": "Gerente de Desenvolvimento e Suporte Técnico",
+        "years": "08/2010 - 12/2013",
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "Bash",
+          "ShellScript",
+          "HTML",
+          "CSS",
+          "E-mail Gateway"
         ]
       }
     ]

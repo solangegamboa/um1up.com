@@ -81,11 +81,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Dental Speed",
+        "title": "Analista Desenvolvedora Web",
+        "years": "01/2016 - atual",
         "mainTech": [
-          "Angular 8/9/10"
+          "PHP"
         ],
         "technologies": [
           "REST API",
@@ -95,21 +95,6 @@
           "MDBootstrap",
           "EF Core",
           "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
         ]
       }
     ]
