@@ -48,6 +48,11 @@
         "level": "75"
       },
       {
+        "name": "Ionic",
+        "class": "devicon-ionic-original",
+        "level": "75"
+      },
+      {
         "name": "HTML 5",
         "class": "devicon-html5-plain",
         "level": "54"

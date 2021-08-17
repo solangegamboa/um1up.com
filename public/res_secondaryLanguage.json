@@ -35,6 +35,42 @@
       ]
     },
     {
+      "title": "Dental Cremer APP",
+      "startDate": "2020",
+      "description": "Mobile APP E-commerce.",
+      "images": [
+        "images/portfolio/dentalcremer_app/dentalcremer_app.png",
+        "images/portfolio/dentalcremer_app/dental_cremer_app_ios.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-magento-original",
+          "name": "Magento 2"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-ionic-original",
+          "name": "Ionic"
+        },
+        {
+          "class": "devicon-cordova-plain",
+          "name": "Cordova"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    },
+    {
       "title": "Dental Speed APP",
       "startDate": "2018",
       "description": "Mobile APP E-commerce.",
@@ -131,8 +167,29 @@
   "experience": [
     {
       "company": "Dental Speed",
+      "title": "Web Development Coordinator",
+      "years": "07/2021 - current",
+      "mainTech": [
+        "PHP"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Angular JS",
+        "Bootstrap",
+        "Jquery",
+        "Code Igniter",
+        "Magento 2",
+        "Typescript",
+        "Ionic",
+        "Cordova",
+        "Scrum"
+      ]
+    },
+    {
+      "company": "Dental Speed",
       "title": "Web Developer and Tech Analyst",
-      "years": "01/2016 - current",
+      "years": "01/2016 - 06/2021",
       "mainTech": [
         "PHP"
       ],
