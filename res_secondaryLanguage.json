@@ -11,6 +11,33 @@
   },
   "projects": [
     {
+      "title": "Utilidades Clinicas APP",
+      "startDate": "2021",
+      "description": "Mobile APP E-commerce.",
+      "images": [
+        "images/portfolio/uc_app/store.png"
+      ],
+      "url": "https://www.utilidadesclinicas.com.br/",
+      "technologies": [
+        {
+          "class": "devicon-magento-original",
+          "name": "Magento 2"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-ionic-original",
+          "name": "Ionic"
+        },
+        {
+          "class": "devicon-cordova-plain",
+          "name": "Cordova"
+        }
+      ]
+    },
+    {
       "title": "Sol in time",
       "startDate": "2021",
       "description": "Work Checkin System. Lavarel com Breeze",
@@ -42,19 +69,15 @@
         "images/portfolio/dentalcremer_app/dentalcremer_app.png",
         "images/portfolio/dentalcremer_app/dental_cremer_app_ios.png"
       ],
-      "url": "",
+      "url": "https://www.dentalcremer.com.br/",
       "technologies": [
-        {
-          "class": "devicon-php-plain",
-          "name": "PHP"
-        },
         {
           "class": "devicon-magento-original",
           "name": "Magento 2"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
         },
         {
           "class": "devicon-ionic-original",
@@ -63,10 +86,6 @@
         {
           "class": "devicon-cordova-plain",
           "name": "Cordova"
-        },
-        {
-          "class": "devicon-mysql-plain",
-          "name": "MySQL"
         }
       ]
     },
@@ -77,19 +96,15 @@
       "images": [
         "images/portfolio/dentalspeed_app/dentalspeed_app.png"
       ],
-      "url": "",
+      "url": "https://www.dentalspeed.com/",
       "technologies": [
-        {
-          "class": "devicon-php-plain",
-          "name": "PHP"
-        },
         {
           "class": "devicon-codeigniter-plain",
           "name": "Code Igniter"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
         },
         {
           "class": "devicon-ionic-original",
@@ -112,7 +127,7 @@
       "images": [
         "images/portfolio/dentalspeed/dentalspeed.png"
       ],
-      "url": "",
+      "url": "https://www.dentalspeed.com/",
       "technologies": [
         {
           "class": "devicon-php-plain",
@@ -167,13 +182,15 @@
   "experience": [
     {
       "company": "Henry Schein BR",
-      "title": "Web Development Coordinator",
+      "title": "Tech Leader Developer - Mobile Apps",
       "years": "07/2021 - current",
       "mainTech": [
         "PHP"
       ],
       "technologies": [
         "REST API",
+        "GraphQL",
+        "React",
         "JavaScript",
         "Angular JS",
         "Bootstrap",
@@ -225,7 +242,7 @@
     },
     {
       "company": "VH Soluções em Sofware",
-      "title": "Tech Team Leader - Web Developer",
+      "title": "Tech Leader - Web Developer",
       "years": "01/2014 - 12/2014",
       "mainTech": [
         "PHP"
