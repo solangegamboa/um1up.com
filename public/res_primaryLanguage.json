@@ -167,13 +167,14 @@
   "experience": [
     {
       "company": "Henry Schein BR",
-      "title": "Coordenadora Desenvolvimento Web",
+      "title": "Lider Técnica Desenvolvimento - Apps",
       "years": "07/2021 - atual",
       "mainTech": [
         "PHP"
       ],
       "technologies": [
         "REST API",
+        "React",
         "JavaScript",
         "Angular JS",
         "Bootstrap",
@@ -188,7 +189,7 @@
     },
     {
       "company": "Dental Speed",
-      "title": "Analista Desenvolvedora Web",
+      "title": "Analista Desenvolvedora Pleno",
       "years": "01/2016 - 06/2021",
       "mainTech": [
         "PHP"

@@ -42,7 +42,7 @@ class About extends Component {
                     style={{ fontSize: "200%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={typescript}
+                    icon={reactIcon}
                     style={{ fontSize: "150%", margin: "9% 5% 0 5%" }}
                   />
                 </span>

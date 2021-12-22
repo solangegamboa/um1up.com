@@ -167,13 +167,14 @@
   "experience": [
     {
       "company": "Henry Schein BR",
-      "title": "Web Development Coordinator",
+      "title": "Tech Leader Developer - Apps",
       "years": "07/2021 - current",
       "mainTech": [
         "PHP"
       ],
       "technologies": [
         "REST API",
+        "React",
         "JavaScript",
         "Angular JS",
         "Bootstrap",
